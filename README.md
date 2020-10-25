@@ -1,7 +1,7 @@
-ember-resource
+ember-could-get-used-to-this
 ==============================================================================
 
-[Short description of the addon.]
+![I Could Get Used To This](https://media.giphy.com/media/Q5LcPLQxjB1ZOm7Ozs/giphy.gif)
 
 
 Compatibility
@@ -16,7 +16,7 @@ Installation
 ------------------------------------------------------------------------------
 
 ```
-ember install ember-resource
+ember install ember-could-get-used-to-this
 ```
 
 
